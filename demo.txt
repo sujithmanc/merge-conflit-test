@@ -1,5 +1,6 @@
 Hello This is King
-I love movies
+I love music
 This is just a test to learn merge-conflits
 This is Just for test Man, Just slay!!
+You're really suberb
 You're king
